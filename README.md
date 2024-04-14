@@ -19,7 +19,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/Youmnaelzany/social-links-profile-main-14-4-24.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://sociallinksprofile144.netlify.app/)
 
 ## My process
 
